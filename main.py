@@ -1,3 +1,5 @@
+
+
 # -*- coding: utf-8 -*-
 from os import system, name
 import os, threading, requests, sys, cloudscraper, datetime, time, socket, socks, ssl, random, httpx
@@ -808,10 +810,9 @@ def help():
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"credit   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show credit                            "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit KARMA DDoS                        "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╠═════════════════════════════════════════════════════╣\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using YUKI                "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using KARMA.                "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)                    "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github https://github.com/Fucbmhcs/YukiDDOS  "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" <div align=center>
-  "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/HyukIsBack/KARMA-DDoS       "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
@@ -827,8 +828,8 @@ def layer7():
     clear()
     stdout.write("                                                                                         \n")
     stdout.write("                                 "+Fore.LIGHTWHITE_EX   +"╔═════════════════╗             \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"║      YUKI       ╔╝             \n")
-    stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"╩═╝╩ ╩ ╩ ╚═╝╩╚═  ╩              \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"║ Yuki Developer  ║             \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX    +"╚═════════════════╝            \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"╔══════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"cfb    "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Bypass CF Attack                         "+Fore.LIGHTCYAN_EX+"║\n")
@@ -883,9 +884,9 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                          \n")
-    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"  ╦╔═╔═╗╦═╗╔╦╗╔═╗                 \n")
-      stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
-      stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩                \n")
+    stdout.write("                                 "+Fore.LIGHTWHITE_EX  +"╦╔═╔═╗╦═╗╔╦╗╔═╗                 \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╠╩╗╠═╣╠╦╝║║║╠═╣                 \n")
+    stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╩ ╩╩ ╩╩╚═╩ ╩╩ ╩                \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Karma  "+Fore.LIGHTCYAN_EX  +"       ║\n")
